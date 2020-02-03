@@ -1,0 +1,585 @@
+/*
+Site Name: virtual.porn
+Description: Website Design and PSD to Responsive HTML5 by AdultDC
+URI: http://adultdc.com/
+*/
+@media only screen and (max-width:1860px){
+    .centerwrap{width:98%;}
+    nav{margin-left:50px;}
+    nav li{padding-right:25px;}
+    .twoLinks{margin-left:20px;}
+    .videoBlock{width:24.25%; margin-right:1%; margin-bottom:1.5%;}
+    
+    /* Category */
+    .categoryBlock{width:19.2%; margin-right:1%; margin-bottom:1.5%;}
+    .categoryTitle h4{font-size:17px;}
+    
+    /* Studios */
+    .studioBlock{width:24.25%; margin-right:1%; margin-bottom:1.5%;}
+    .studioC p{font-size:13px;}
+    .studioC p span{padding:0 4px;}
+    .sLogo{width:80px;}
+    
+    /* Pornstars */
+    .pornstar{width:15.83333333333333%; margin-right:1%; margin-bottom:1.5%;}
+    .pornstarTitle h4{font-size:17px;}
+    
+    /* Blog */
+    .blogPost{width:32%; margin-right:2%; margin-bottom:2%;}
+    .blogLeft{width:calc(100% - 350px);}
+    .tag:before{width:75%;}
+    
+    /* Video Player */
+    .playerLeft{width:calc(100% - 340px);}
+    .videoAds{width:300px;}
+    .playerTitle h2{font-size:30px;}
+    .videoDetails p{font-size:15px; line-height:24px;}
+    
+    /* How To Watch VR */
+    
+    
+    
+    }
+    @media only screen and (max-width:1590px){
+    /*.centerwrap{width:1250px;}*/
+    .categories{padding-left:14px; padding-right:14px;}
+    nav{padding-top:0px;}
+    .logo{padding:18px 0;}
+    .headerRight{padding-top:23px; margin-right:70px;}
+    .twoLinks{position:relative; z-index:5;}
+    .searchArea{z-index:5;}
+    nav li a:after{display:none;}
+    .title h2{font-size:23px;}
+    .timeline{font-size:12px;}
+    .like{font-size:13px;}
+    .videoTitle a{font-size:12px;}
+    .anglefps{font-size:12px;}
+    .videoPic{margin-bottom:6px;}
+    .anglefps span{padding:0 3px;}
+    footer{padding:25px 0 22px;}
+    .about p{font-size:15px; line-height:25px;}
+    
+    /* Category */
+    .categoryBlock{width:24.25%;}
+    .categoryBlock:nth-child(5n){margin-right:1%;}
+    .categoryBlock:nth-child(4n){margin-right:0px;}
+    
+    /* Studios */
+    .studioBlock{width:32.66666666666667%;}
+    .studioBlock:nth-child(4n){margin-right:1%;}
+    .studioBlock:nth-child(3n){margin-right:0px;}
+    
+    /* Individual Channel */
+    .studioDetail h1{font-size:26px;}
+    
+    /* Pornstars */
+    .pornstar{width:19.2%;}
+    .pornstar:nth-child(6n){margin-right:1%;}
+    .pornstar:nth-child(5n){margin-right:0px;}
+    
+    /* Model-bio */
+    .bioDetails h2{padding-top:0px; margin-top:3px;}
+    .aboutArea p{font-size:13px; line-height:21px;}
+    .stats{padding:14px 0 8px;}
+    .aboutArea{padding-top:14px;}
+    .stats h3{line-height:24px;}
+    .aboutArea h3{line-height:24px; margin-bottom:2px;}
+    
+    /* Blog */
+    .blogPosts{padding-bottom:30px;}
+    .blogRight{width:250px;}
+    .blogLeft{width:calc(100% - 290px);}
+    .post{width:49%; margin-right:2%; margin-bottom:2%;}
+    h3.blogTitle{padding-bottom:10px; font-size:22px;}
+    .popularTags ul li{margin-right:5px; margin-bottom:5px;}
+    .popularTags ul li a{line-height:28px; padding:0 10px;}
+    .blogPContent{padding:15px 20px 0;}
+    .date{font-size:13px; padding-bottom:0px;}
+    .blogPContent h3{font-size:22px; padding-bottom:5px;}
+    .blogPContent p{font-size:14px; line-height:21px; height:90px; margin-bottom:24px;}
+    .tag:before{left:-20px; width:68%;}
+    a.blogreadMore{right:20px;}
+    .tag a{font-size:13px; line-height:42px;}
+    
+    /* Blog Post */
+    .blogContent h3{font-size:32px;}
+    .postContent{padding-top:15px; margin-top:15px;}
+    .postContent p{font-size:14px; line-height:24px; padding-bottom:24px;}
+    .needLogin{font-size:20px; line-height:58px;}
+    .comments{padding-bottom:80px;}
+    
+    /* Video Player */
+    .videoAds{width:250px;}
+    .playerLeft{width:calc(100% - 290px);}
+    .videobanner{width:100%;}
+    .videoAds h3{font-size:22px; margin-bottom:10px;}
+    .playerTitle h2{font-size:28px;}
+    .views span{font-size:13px;}
+    .views p{font-size:12px;}
+    .videotags ul li{margin-right:5px; margin-bottom:5px;}
+    .videotags ul li a{padding:0 10px; line-height:28px;}
+    .videotags{margin-bottom:15px;}
+    a.btn{padding:0 30px; font-size:16px; line-height:38px; margin-left:10px;}
+    .downloadVideos{margin-left:10px;}
+    .downloadLink{padding:0 30px; font-size:16px; line-height:38px;}
+    .downloadLink span{background-size:20px; padding-left:30px;}
+    .downloadVideos ul{top:41px;}
+    a.videoLike{line-height:40px; font-size:16px; background-size:28px; padding-left:36px; margin-right:10px;}
+    .stdLogo{width:50px; margin-right:14px;}
+    .sName{padding-top:5px;}
+    .sName h3{font-size:20px; line-height:22px;}
+    .sName p{font-size:13px;}
+    .videoDetails p{font-size:14px;}
+    .videoDetails{padding-top:15px; padding-bottom:55px;}
+    .likeDownload{padding-top:5px;}
+    
+    /* How To Watch VR */
+    .watchVRPic{width:600px;}
+    .howtoDetails{width:calc(100% - 630px);}
+    .mrc-content{height:304px!important;}
+    .howtoDetails.open .mrc-content{height:auto!important;}
+    .howtoDetails h3{font-size:30px; margin-top:-9px;}
+    
+    
+    }
+    @media only screen and (max-width:1279px){
+    /*.centerwrap{width:994px;}*/
+    .centerwrap{width:97%;}
+    .categories{margin-bottom:20px;}
+    .view img{height:10px;}
+    a.sellAll{padding:2px 17px 0; line-height:30px;}
+    nav li{padding-right:0px;}
+    .about p{font-size:14px; line-height:24px;}
+    .about{padding-bottom:50px;}
+    .videoBlock{width:32.33333333333333%; margin-right:1.5%}
+    .videoBlock:nth-child(4n){margin-right:1.5%;}
+    .videoBlock:nth-child(3n){margin-right:0px;}
+    .videoPic a:before{background-size:auto 80px; height:80px;}
+    .videoPic a:after{background-size:auto 80px; height:80px;}
+    .fRight{float:none; text-align:center;}
+    .fRight ul{float:none;}
+    .fRight ul li{float:none; vertical-align:top; display:inline-block; margin-left:15px; margin-right:15px;}
+    .fRight ul li ul li{display:block;}
+    .fRight ul li ul li{margin-left:0px;}
+    .fRight p{float:none; text-align:center; padding-right:0px; clear:none; display:inline-block; vertical-align:top;}
+    .social{float:none; padding-left:0px; vertical-align:top; display:block; border-left:0px; padding-bottom:15px;}
+    .social a{float:none; display:inline-block; vertical-align:top; margin:0 4px;}
+    .fLeft{text-align:center; float:none;}
+    .fLogo img{margin:auto; width:260px;}
+    .fLeft p{padding-top:6px; font-size:12px;}
+    
+    /* Category */
+    .categoryBlock{width:32.66666666666667%;}
+    .categoryBlock:nth-child(4n){margin-right:1%;}
+    .categoryBlock:nth-child(3n){margin-right:0px;}
+    .onlyPagi{padding-bottom:70px;}
+    
+    /* Studios */
+    .studioBlock h3{font-size:16px; line-height:20px;}
+    .studioC p{font-size:12px;}
+    .studioC p span{padding:0 3px;}
+    .sLogo{width:70px;}
+    .slike{right:10px; bottom:9px;}
+    
+    /* Individual Channel */
+    
+    /* Pornstars */
+    .pornstar{width:24.25%;}
+    .pornstar:nth-child(5n){margin-right:1%;}
+    .pornstar:nth-child(4n){margin-right:0px;}
+    .pornstars{padding-top:15px;}
+    .pornstarTitle h4{font-size:16px;}
+    .atoz a{min-width:30px; line-height:28px; font-size:14px;}
+    .atoz{height:54px;}
+    .atozBlock{padding-top:12px;}
+    
+    /* Model-bio */
+    .bioPic{width:32%;}
+    .bioDetails{width:66%;}
+    .statDetails{display:-webkit-box; display:-ms-flexbox; display:flex; -webkit-box-pack:justify; -ms-flex-pack:justify; justify-content:space-between; align-items:baseline;}
+    .stats ul{float:none; padding-right:0px;}
+    .aboutArea p{line-height:20px;}
+    .ratingArea h4, .stats h3, .aboutArea h3{font-size:20px;}
+    .ratingArea p{font-size:12px; padding-top:1px;}
+    .bioDetails h2{font-size:26px; line-height:28px; margin-bottom:20px;}
+    .stats ul li{line-height:24px;}
+    .stats{padding:10px 0 8px;}
+    .ratingArea{padding-bottom:10px;}
+    .aboutArea{padding-top:10px;}
+    
+    /* Login-Signup */
+    .loginBody{padding:80px 0;}
+    .loginwrap{max-width:90%;}
+    .loginModel{width:53%;}
+    .loginArea{width:47%; padding:6px 24px;}
+    .loginArea .resp-tabs-list li{font-size:26px;}
+    .loginArea .resp-tab-content{padding-top:14px;}
+    .loginBlock{margin-bottom:10px;}
+    .submitBtn{height:60px; margin-top:22px; font-size:30px;}
+    
+    /* Blog */
+    .blogPContent{padding:8px 10px 0;}
+    .date{font-size:12px;}
+    .blogPContent h3{font-size:18px; padding-bottom:2px;}
+    .blogPContent p{font-size:13px; line-height:18px; height:92px; margin-bottom:28px;}
+    a.blogreadMore{right:10px; bottom:27px;}
+    .tag:before{left:-10px;}
+    
+    /* Blog Post */
+    .blogBody{padding-top:20px;}
+    .blogContent{padding-top:15px;}
+    .blogContent h3{font-size:26px;}
+    .postDate{font-size:13px;}
+    .tagInner a{font-size:13px;}
+    a.chat{font-size:13px;}
+    .postContent p{font-size:13px; line-height:22px; padding-bottom:20px;}
+    .postContent{margin-top:10px;}
+    .shareArea a{width:32px;}
+    .shareArea p{font-size:18px; line-height:32px; margin-right:15px;}
+    .shareArea{padding:15px 0;}
+    .comments{padding-top:18px; padding-bottom:60px;}
+    .comments h4{font-size:24px; padding-bottom:12px;}
+    .needLogin{font-size:16px; line-height:42px;}
+    
+    /* Video Player */
+    .videoPlayerArea{padding-top:11px;}
+    .playerTitle h2{font-size:24px; margin-bottom:5px;}
+    .views span{font-size:12px; padding:0 10px; margin-right:6px;}
+    .videoHere i{background-size:80px; width:80px; height:80px;}
+    .likeDownload{float:left; padding-top:20px;}
+    .downloadVideos{margin-left:0px;}
+    .ResponsiveView{display:block;}
+    .ResponsiveNone{display:none;}
+    a.videoLike{float:right; margin-right:0px; margin-top:5px;}
+    .videobanner{margin-bottom:20px;}
+    .videoDetails p{font-size:13px; line-height:22px;}
+    .studio{width:100%;}
+    
+    /* How To Watch VR */
+    .watchVRPic{width:500px;}
+    .howtoDetails{width:calc(100% - 520px);}
+    .mrc-content{height:247px!important;}
+    .howtoDetails h3{font-size:24px; margin-top:-6px; margin-bottom:6px;}
+    .howtoBody{padding-top:20px;}
+    .howto{padding-bottom:22px; margin-bottom:22px;}
+    .howtoDetails p{font-size:13px; line-height:20px; padding-bottom:20px;}
+    .howtoBody{padding-bottom:80px;}
+    
+    
+    }
+    @media only screen and (max-width:1023px){
+    /*.centerwrap{width:748px;}*/
+    .searchIcon{display:block; position:relative; z-index:5;}
+    .searchArea{display:none; position:absolute; top:80px; left:0px; width:100%;}
+    .searchBox{height:42px; padding-right:40px; font-size:13px;}
+    .search{height:40px; width:40px;}
+    .videoBlock{width:49%; margin-right:2%; margin-bottom:2.5%}
+    .videoBlock:nth-child(3n){margin-right:2%;}
+    .videoBlock:nth-child(2n){margin-right:0px;}
+    .about p{font-size:13px; line-height:22px;}
+    .pagination{padding-bottom:40px;}
+    .about{padding-bottom:40px;}
+    .fRight ul li{margin-left:8px; margin-right:8px;}
+    .fRight p{font-size:12px; line-height:21px;}
+    .social{margin-top:0px; padding-top:15px;}
+    .title h2{font-size:20px;}
+    
+    /* Category */
+    .categoryTitle h4{font-size:16px;}
+    .categoryTitle p{font-size:11px;}
+    .categoryArea{padding-bottom:20px;}
+    .onlyPagi{padding-bottom:60px;}
+    
+    /* Studios */
+    .studioBlock{width:49%; margin-right:2%; margin-bottom:2.5%;}
+    .studioBlock:nth-child(3n){margin-right:2%;}
+    .studioBlock:nth-child(2n){margin-right:0px;}
+    
+    /* Individual Channel */
+    .studioLogo{width:80px; margin-right:14px;}
+    .studioDetail{height:80px;}
+    .studioDetail h1{font-size:22px; line-height:22px; margin-top:-2px;}
+    .studioDetail p{font-size:13px;}
+    .divider{padding:0 6px;}
+    a.joinStudio{font-size:16px; padding:0 32px; line-height:40px;}
+    .likeB a{background-size:22px; line-height:22px; padding-left:30px; font-size:12px;}
+    
+    /* Pornstars */
+    .pornstar{width:32%; margin-right:2%; margin-bottom:2.5%;}
+    .pornstar:nth-child(4n), .pornstar:nth-child(5n){margin-right:2%;}
+    .pornstar:nth-child(3n){margin-right:0px;}
+    .atoz a{min-width:26px;}
+    
+    /* Model-bio */
+    .bioPic{width:26%;}
+    .bioDetails{width:71.5%;}
+    .stats ul li{font-size:13px; line-height:22px;}
+    
+    /* Login-Signup */
+    .loginBody{padding:110px 0;}
+    .loginModel{display:none;}
+    .loginArea{width:100%; padding:6px 24px 24px;}
+    .loginArea .resp-tab-content{padding-top:24px; min-height:inherit;}
+    .loginBlock{margin-bottom:14px;}
+    
+    /* Blog */
+    .blogLeft{width:100%;}
+    .blogRight{width:100%;}
+    .latestPost{display:none;}
+    .advertisement{display:none;}
+    .blogBody{padding-top:20px;}
+    .popularTags{margin-bottom:10px;}
+    h3.blogTitle{font-size:18px; padding:10px 20px; position:relative; background-color:#000; cursor:pointer;}
+    h3.blogTitle:after{background:url(../images/downArrow.png) no-repeat; width:12px; height:8px; right:20px; top:17px; content:''; position:absolute;}
+    h3.blogTitle.active:after{transform:rotate(180deg);}
+    .blogPosts{padding-bottom:20px;}
+    .popularTags ul{display:none; background-color:#090804; padding:10px 10px 5px;}
+    
+    /* Blog Post */
+    .blogContent{padding-top:10px;}
+    a.chat{margin-left:15px;}
+    .blogContent h3{font-size:24px;}
+    .postContent p{font-size:12px; line-height:20px; padding-bottom:18px;}
+    .postContent{padding-top:10px;}
+    .shareArea a{margin-right:8px;}
+    .comments h4{font-size:20px; padding-bottom:8px;}
+    .comments{padding-bottom:50px;}
+    
+    /* Video Player */
+    .playerTitle h2{font-size:22px;}
+    .views span{line-height:26px;}
+    .views p{line-height:28px;}
+    .videotags{margin-bottom:10px;}
+    .playerLeft{width:100%;}
+    .videoAds{display:none;}
+    .videoDetails p{font-size:12px; line-height:20px; padding-bottom:18px;}
+    .videoDetails{padding-bottom:30px;}
+    
+    /* How To Watch VR */
+    .watchVRPic{width:400px;}
+    .howtoDetails{width:calc(100% - 420px);}
+    .mrc-content{height:191px !important;}
+    .howtoDetails h3{font-size:22px; line-height:24px; margin-top:-5px;}
+    .howtoDetails p{font-size:12px; line-height:18px; padding-bottom:18px;}
+    .howtoBody{padding-bottom:60px;}
+    
+    }
+    @media only screen and (max-width:767px){
+    /*.centerwrap{width:460px;}*/
+    .twoLinks{display:none;}
+    nav li.responsiveOnly{display:block;}
+    .mean-container .mean-nav{margin:55px 0px 0 0;}
+    .headerRight{margin-right:48px;}
+    .searchArea{top:62px;}
+    .searchBox{height:36px; font-size:12px;}
+    .search{height:34px;}
+    .logo{width:230px; padding:14px 0;}
+    .mean-container .mean-bar{top:8px;}
+    .headerRight{padding-top:13px;}
+    .categories{margin-bottom:14px;}
+    .title h2{font-size:18px; line-height:34px; background-position:70px center; margin-bottom:10px;}
+    .title h2:before{height:34px;}
+    a.sellAll{padding:1px 14px 0; line-height:27px; font-size:12px; margin-top:2px;}
+    .fRight ul li{margin-left:6px; margin-right:6px;}
+    .fRight p{line-height:20px;}
+    .fRight p span:nth-child(5){display:none;}
+    .fRight p a{display:inline-block;}
+    .pagination{padding-bottom:30px;}
+    .pagination li.prev, .pagination li.next{min-width:72px; margin:0 1px; font-size:12px;}
+    .pagination li a, .pagination li span{line-height:26px; min-width:30px;}
+    .about p{font-size:12px; line-height:20px;}
+    
+    /* Category */
+    .categoryBlock{width:49%; margin-right:2%; margin-bottom:2.5%;}
+    .categoryBlock:nth-child(3n), .categoryBlock:nth-child(5n){margin-right:2%;}
+    .categoryBlock:nth-child(2n){margin-right:0px;}
+    .onlyPagi{padding-bottom:50px;}
+    
+    /* Video */
+    .dropdown{padding-top:2px;}
+    .selectric .label{height:28px; line-height:28px; font-size:12px; padding-top:0px;}
+    .selectric .button{height:28px;}
+    
+    /* Studios */
+    .studioC{display:block;}
+    .studioC p:first-child{margin-right:0px;}
+    .studioC p{line-height:16px;}
+    .studioBlock h3{line-height:normal;}
+    .sLogo{width:60px; left:6px; bottom:6px;}
+    .slike{right:8px; bottom:6px;}
+    
+    /* Individual Channel */
+    .studioInfo{margin-bottom:35px;}
+    a.joinStudio{float:left; clear:left; position:relative; transform:none; -webkit-transform:none; -ms-transform:none; top:auto; margin-left:94px; margin-top:15px; font-size:15px; line-height:34px; padding:0 20px;}
+    .resp-tabs-list li{margin-right:30px;}
+    .resp-tab-content{padding-top:20px; font-size:16px;}
+    
+    /* Pornstars */
+    .pornstar{width:49%;}
+    .pornstar:nth-child(3n){margin-right:2%;}
+    .pornstar:nth-child(2n){margin-right:0px;}
+    .atozBlock{display:block;}
+    .atoz{height:auto; text-align:center; padding:5px 0;}
+    
+    /* Model-bio */
+    .bioPic{width:40%;}
+    .bioDetails{width:57%;}
+    .bioDetails h2{font-size:24px;}
+    .ratingArea li{width:21px;}
+    .ratingArea p{font-size:11px; padding-top:2px; line-height:22px;}
+    .statDetails{display:block;}
+    .aboutArea p{font-size:12px; line-height:18px;}
+    
+    /* Login-Signup */
+    .loginBody{padding:60px 0;}
+    
+    /* Blog */
+    .blogPost{width:49%;}
+    .blogPost:nth-child(3n){margin-right:2%;}
+    .blogPost:nth-child(2n){margin-right:0px;}
+    .blogBody{padding-top:12px;}
+    
+    /* Blog Post */
+    .blogContent h3{font-size:22px; line-height:24px; padding-bottom:5px;}
+    .postContent{margin-top:6px; padding-top:8px;}
+    .needLogin{font-size:14px; line-height:40px;}
+    
+    /* Video Player */
+    .playerTitle h2{line-height:22px; margin-bottom:10px;}
+    a.videoLike{font-size:15px; background-size:24px; padding-left:32px;}
+    
+    /* How To Watch VR */
+    .watchVRPic{width:100%; margin-bottom:10px;}
+    .howtoDetails{width:100%;}
+    .mrc-content{height:auto!important;}
+    .mrc-shadow{display:none!important;}
+    .howtoDetails h3{font-size:24px; line-height:28px; margin-top:0px; margin-bottom:10px;}
+    .mrc-controls{display:none;}
+    .howto{padding-bottom:0px;}
+    .howtoBody{padding-bottom:20px;}
+    
+    
+    }
+    @media only screen and (max-width:567px){
+    .centerwrap{width:95%;}
+    .mean-container .mean-nav ul li a{padding:12px 4%; width:92%;}
+    .title h2{margin-bottom:15px; width:480px;}
+    .videoBlock{width:100%; margin-right:0px; margin-bottom:12px;}
+    .view img{height:auto;}
+    .videoTitle a{font-weight:400; font-size:13px;}
+    .anglefps{font-weight:400;}
+    .pagination li{display:none;}
+    .pagination li.prev, .pagination li.next, .pagination li.active{display:inline-block;}
+    .pagination li.prev, .pagination li.next{min-width:78px; font-size:13px;}
+    .pagination li a{min-width:32px;}
+    .fRight ul{margin-bottom:6px;}
+    .fRight ul li{margin-left:4px; margin-right:4px; font-size:12px;}
+    .about{padding-bottom:30px;}
+    .fRight ul li ul{bottom:15px;}
+    
+    /* Category */
+    
+    /* Studios */
+    .studioBlock{width:100%; margin-right:0%; margin-bottom:18px;}
+    .sLogo{width:80px; left:10px; bottom:10px;}
+    .slike{bottom:10px; right:13px;}
+    .studioC{display:-webkit-box; display:-ms-flexbox; display:flex;}
+    .studioBlock h3{font-size:18px;}
+    .studioC p{font-size:13px;}
+    
+    /* Blog */
+    .blogPContent p{font-size:12px;}
+    
+    /* Blog Post */
+    
+    /* Video Player */
+    .views p{padding-left:0px; clear:left; line-height:normal; padding-top:6px;} 
+    
+    /* How To Watch VR */
+    }
+    @media only screen and (max-width:479px){
+    .centerwrap{width:94%;}
+    .logo{width:200px; padding:17px 0;}
+    .headerRight{margin-right:42px;}
+    .searchArea{top:62px;}
+    .searchBox{height:32px;}
+    .search{height:30px;}
+    .title h2{width:420px; background-position:60px center;}
+    .fRight ul li{margin-left:2px; margin-right:2px;}
+    .fRight p{line-height:18px;}
+    .fRight ul li ul{right:0px; left:auto; transform:none; -webkit-transform:none; -ms-transform:none;}
+    .timeline{line-height:24px; padding:3px 10px 0px;}
+    .pagination li a, .pagination li span{padding-top:3px;}
+    
+    /* Category */
+    .categoryBlock{width:100%; margin-right:0px; margin-bottom:10px;}
+    .categoryTitle{margin-top:0px;}
+    
+    /* Video */
+    .dropdown{float:left; margin-bottom:15px;}
+    .selectric .label{padding-top:1px;}
+    
+    /* Studios */
+    .studioC{display:block;}
+    .sLogo{width:70px;}
+    .studioC p{font-size:12px;}
+    .studioBlock h3{font-size:16px;}
+    
+    /* Individual Channel */
+    .studioLogo{width:70px;}
+    .studioDetail{width:calc(100% - 84px); height:auto;}
+    .likeB{padding-top:10px;}
+    .likeB a{position:relative; display:inline-block;}
+    a.joinStudio{margin-left:84px; font-size:14px;}
+    .resp-tabs-list li{font-size:16px;}
+    
+    /* Pornstars */
+    .marginNone{margin-bottom:15px!important;}
+    .pornstar{width:100%; margin-right:0px; margin-bottom:14px;}
+    .atozBlock{padding-top:0px;}
+    .pornstar:nth-child(3n), .pornstar:nth-child(4n), .pornstar:nth-child(5n){margin-right:0px;}
+    
+    /* Model-bio */
+    .bioPic{width:100%;}
+    .bioDetails{width:100%;}
+    .bioDetails h2{margin-top:10px;}
+    
+    /* Login-Signup */
+    .loginBody{padding:40px 0;}
+    .loginArea{padding:0px 14px 14px;}
+    .loginArea .resp-tab-content{padding-top:14px;}
+    .loginBlock{margin-bottom:10px;}
+    .loginbox{font-size:14px; padding-left:40px; height:44px;}
+    .loginBlock i{width:40px; height:44px;}
+    .user, .email, .password{background-size:auto 16px;}
+    .signup p{font-size:12px;}
+    .submitBtn{height:54px; font-size:26px; margin-top:16px;} 
+    .loginArea .resp-tabs-list li{font-size:20px;}
+    
+    /* Blog */
+    .blogPost{width:100%; margin-right:0px; margin-bottom:10px;}
+    .blogPContent h3{padding-bottom:5px;}
+    .blogPosts{padding-bottom:14px;}
+    .onlyPagi{padding-bottom:40px;}
+    
+    /* Blog Post */
+    .blogContent h3{font-size:20px;}
+    .postRight{clear:left; float:left;}
+    a.chat{clear:left; float:left; margin-left:0px;}
+    .postContent{margin-top:14px; padding-top:10px;}
+    .postContent p{line-height:19px;}
+    .needLogin{line-height:18px; padding:12px 10px;}
+    .comments{padding-bottom:40px;}
+    
+    /* Video Player */
+    .videoHere i{background-size:50px; width:50px; height:50px;}
+    .sName h3{font-size:18px;}
+    .sName p{font-size:12px;}
+    a.videoLike{float:left; margin-left:65px; clear:both; margin-top:0px;}
+    .downloadLink{padding:0 16px; font-size:14px;}
+    a.btn{padding:0 15px; font-size:14px;}
+    .likeDownload{padding-top:5px;}
+    
+    /* How To Watch VR */
+    .howtoDetails h3{font-size:22px; line-height:24px;}
+    }
